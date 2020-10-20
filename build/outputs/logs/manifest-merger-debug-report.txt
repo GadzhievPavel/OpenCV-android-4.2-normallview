@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:3:7-27
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:5:7-34
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:4:7-33
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml:7:22-62
+uses-sdk
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+		ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+		ADDED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml
+		INJECTED from F:\Users\gadzhiev\AndroidStudioProjects\OpenCV-android-sdk\sdk\java\AndroidManifest.xml

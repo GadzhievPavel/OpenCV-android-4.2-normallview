@@ -1,0 +1,3 @@
+F:/Users/gadzhiev/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/cmake/debug/x86_64/CMakeFiles/opencv_jni_shared.dir
+F:/Users/gadzhiev/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+F:/Users/gadzhiev/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

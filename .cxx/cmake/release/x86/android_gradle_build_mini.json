@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\gadzhiev\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\gadzhiev\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "F:\\Users\\gadzhiev\\AndroidStudioProjects\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\gadzhiev\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\Users\\gadzhiev\\AndroidStudioProjects\\OpenCV-android-sdk\\sdk\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\gadzhiev\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"F:\\Users\\gadzhiev\\AndroidStudioProjects\\OpenCV-android-sdk\\sdk\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv_jni_shared-Release-x86": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommand": "C:\\Users\\gadzhiev\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\Users\\gadzhiev\\AndroidStudioProjects\\OpenCV-android-sdk\\sdk\\.cxx\\cmake\\release\\x86\" opencv_jni_shared",
+      "abi": "x86",
+      "output": "F:\\Users\\gadzhiev\\AndroidStudioProjects\\OpenCV-android-sdk\\sdk\\.cxx\\cmake\\release\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
